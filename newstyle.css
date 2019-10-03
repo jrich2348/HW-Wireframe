@@ -47,3 +47,24 @@ footer{margin-top: 250px;
     text-align: center;}
 
 article {margin-left: 100px}
+
+a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:visited {
+    color: #777;
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
